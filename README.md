@@ -1,2 +1,2 @@
 # Batch-Game
-# My frist Batch game
+My first Batch game
